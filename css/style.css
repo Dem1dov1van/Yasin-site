@@ -380,7 +380,7 @@ h4.wrap-body__title {
 }
 
 .slider__img-wrap:hover {
-  background-image: url(./img/slider-img-blur.png);
+  background-image: url(../img/slider-img-blur.png);
   cursor: initial;
 }
 
