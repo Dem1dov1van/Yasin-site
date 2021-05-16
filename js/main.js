@@ -26,6 +26,7 @@ $('.history').on('mousemove', (e)=>{
    );
 });
 
+$('.navigation__link').click()
 
 
 
